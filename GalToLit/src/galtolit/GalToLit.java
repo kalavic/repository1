@@ -9,6 +9,7 @@ package galtolit;
  *
  * @author kalav_000
  */
+
 public class GalToLit {
 
     /**
@@ -16,7 +17,9 @@ public class GalToLit {
      */
     public static void main(String[] args) {
         double gallons; //holds the number of gallons
+        double onions;
         double liters; // holds conversion to liters
+        // this is just for me to test a push
         
         gallons = 10; // start with 10 gallons
         liters = gallons * 3.7854; // convert to liters
